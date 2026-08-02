@@ -41,6 +41,46 @@
     "entries": [
       {
         "phases": {
+          "8": 48
+        },
+        "temp_bucket": 2,
+        "timestamp": 1783093534,
+        "total": 178
+      },
+      {
+        "phases": {
+          "8": 42
+        },
+        "temp_bucket": 2,
+        "timestamp": 1783094075,
+        "total": 162
+      },
+      {
+        "phases": {
+          "8": 40
+        },
+        "temp_bucket": 2,
+        "timestamp": 1783184631,
+        "total": 193
+      },
+      {
+        "phases": {
+          "8": 26
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785620724,
+        "total": 177
+      },
+      {
+        "phases": {
+          "8": 34
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785687629,
+        "total": 209
+      },
+      {
+        "phases": {
           "8": 28
         },
         "temp_bucket": 1,
@@ -113,51 +153,11 @@
       },
       {
         "phases": {
-          "8": 40
+          "8": 32
         },
-        "temp_bucket": 2,
-        "timestamp": 1783089681,
-        "total": 186
-      },
-      {
-        "phases": {
-          "8": 48
-        },
-        "temp_bucket": 2,
-        "timestamp": 1783093534,
-        "total": 178
-      },
-      {
-        "phases": {
-          "8": 42
-        },
-        "temp_bucket": 2,
-        "timestamp": 1783094075,
-        "total": 162
-      },
-      {
-        "phases": {
-          "8": 40
-        },
-        "temp_bucket": 2,
-        "timestamp": 1783184631,
-        "total": 193
-      },
-      {
-        "phases": {
-          "8": 26
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785620724,
-        "total": 177
-      },
-      {
-        "phases": {
-          "8": 34
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785687629,
-        "total": 209
+        "temp_bucket": 1,
+        "timestamp": 1785689802,
+        "total": 262
       }
     ]
   },
@@ -322,7 +322,7 @@
             "temperature_sensor Turtle_1",
             "temperature_sensor btt_eddy_mcu"
           ],
-          "timestamp": "2026-08-02T15:08:25Z"
+          "timestamp": "2026-08-02T16:50:51Z"
         },
         "optional": []
       },
@@ -668,10 +668,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.969481348991394
+        "heat_rate": 1.5062979459762573
       },
       "heater_bed": {
-        "heat_rate": 4.848235607147217
+        "heat_rate": 5.594419002532959
       }
     }
   },
