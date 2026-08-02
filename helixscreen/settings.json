@@ -1,6 +1,6 @@
 {
   "active_printer_id": "default",
-  "config_version": 19,
+  "config_version": 21,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -33,12 +33,6 @@
     "touch_device": ""
   },
   "language": "en",
-  "led": {
-    "auto_state": {
-      "enabled": null
-    },
-    "selected_strips": null
-  },
   "log_path": "/tmp/helixscreen.log",
   "motion": {
     "jog_mode": 2
@@ -301,7 +295,7 @@
             "heater_fan controller_fan"
           ],
           "filament_sensors": [
-            "filament_switch_sensor tool_start",
+            "filament_switch_sensor extruder_tool_start",
             "filament_switch_sensor Turtle_1_expanded",
             "filament_switch_sensor Turtle_1_compressed",
             "filament_switch_sensor lane1_prep",
@@ -328,7 +322,7 @@
             "temperature_sensor Turtle_1",
             "temperature_sensor btt_eddy_mcu"
           ],
-          "timestamp": "2026-08-02T14:54:02Z"
+          "timestamp": "2026-08-02T15:08:25Z"
         },
         "optional": []
       },
@@ -337,9 +331,7 @@
         "hotend": "extruder"
       },
       "leds": {
-        "auto_state": {
-          "mappings": null
-        },
+        "auto_state": {},
         "color_presets": [
           "#FFFFFF",
           "#FFD700",
@@ -659,9 +651,7 @@
         }
       },
       "printer_name": "Switchwire",
-      "probe_sensors": {
-        "sensors": null
-      },
+      "probe_sensors": {},
       "temp_sensors": {
         "bed": "heater_bed",
         "hotend": "extruder"
