@@ -87,22 +87,6 @@
       },
       {
         "phases": {
-          "8": 32
-        },
-        "temp_bucket": 1,
-        "timestamp": 1783104284,
-        "total": 271
-      },
-      {
-        "phases": {
-          "8": 40
-        },
-        "temp_bucket": 1,
-        "timestamp": 1783183972,
-        "total": 276
-      },
-      {
-        "phases": {
           "8": 45
         },
         "temp_bucket": 1,
@@ -164,6 +148,22 @@
         "temp_bucket": 1,
         "timestamp": 1785675881,
         "total": 177
+      },
+      {
+        "phases": {
+          "8": 30
+        },
+        "temp_bucket": 1,
+        "timestamp": 1785677890,
+        "total": 239
+      },
+      {
+        "phases": {
+          "8": 32
+        },
+        "temp_bucket": 1,
+        "timestamp": 1785679198,
+        "total": 257
       }
     ]
   },
@@ -328,7 +328,7 @@
             "temperature_sensor Turtle_1",
             "temperature_sensor btt_eddy_mcu"
           ],
-          "timestamp": "2026-08-02T12:52:50Z"
+          "timestamp": "2026-08-02T13:55:29Z"
         },
         "optional": []
       },
@@ -678,10 +678,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.9108301401138306
+        "heat_rate": 1.5133427381515503
       },
       "heater_bed": {
-        "heat_rate": 5.129087924957275
+        "heat_rate": 5.863961696624756
       }
     }
   },
