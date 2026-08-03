@@ -41,14 +41,6 @@
     "entries": [
       {
         "phases": {
-          "8": 53
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785697607,
-        "total": 227
-      },
-      {
-        "phases": {
           "8": 47
         },
         "temp_bucket": 2,
@@ -158,6 +150,14 @@
         "temp_bucket": 1,
         "timestamp": 1785716520,
         "total": 269
+      },
+      {
+        "phases": {
+          "8": 34
+        },
+        "temp_bucket": 1,
+        "timestamp": 1785718500,
+        "total": 191
       }
     ]
   },
@@ -322,7 +322,7 @@
             "temperature_sensor Turtle_1",
             "temperature_sensor btt_eddy_mcu"
           ],
-          "timestamp": "2026-08-02T20:59:30Z"
+          "timestamp": "2026-08-03T00:45:50Z"
         },
         "optional": []
       },
@@ -671,7 +671,7 @@
         "heat_rate": 2.4374871253967285
       },
       "heater_bed": {
-        "heat_rate": 6.866450786590576
+        "heat_rate": 5.596823215484619
       }
     }
   },
