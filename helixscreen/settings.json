@@ -41,54 +41,6 @@
     "entries": [
       {
         "phases": {
-          "8": 47
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785697871,
-        "total": 161
-      },
-      {
-        "phases": {
-          "8": 48
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785698145,
-        "total": 167
-      },
-      {
-        "phases": {
-          "8": 27
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785700492,
-        "total": 65
-      },
-      {
-        "phases": {
-          "8": 33
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785701638,
-        "total": 126
-      },
-      {
-        "phases": {
-          "8": 23
-        },
-        "temp_bucket": 2,
-        "timestamp": 1785704950,
-        "total": 158
-      },
-      {
-        "phases": {
-          "8": 34
-        },
-        "temp_bucket": 1,
-        "timestamp": 1785718500,
-        "total": 191
-      },
-      {
-        "phases": {
           "8": 37
         },
         "temp_bucket": 1,
@@ -158,6 +110,54 @@
         "temp_bucket": 1,
         "timestamp": 1786922762,
         "total": 284
+      },
+      {
+        "phases": {
+          "8": 47
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785697871,
+        "total": 161
+      },
+      {
+        "phases": {
+          "8": 48
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785698145,
+        "total": 167
+      },
+      {
+        "phases": {
+          "8": 27
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785700492,
+        "total": 65
+      },
+      {
+        "phases": {
+          "8": 33
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785701638,
+        "total": 126
+      },
+      {
+        "phases": {
+          "8": 23
+        },
+        "temp_bucket": 2,
+        "timestamp": 1785704950,
+        "total": 158
+      },
+      {
+        "phases": {
+          "8": 33
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786923572,
+        "total": 163
       }
     ]
   },
@@ -322,7 +322,7 @@
             "temperature_sensor Turtle_1",
             "temperature_sensor btt_eddy_mcu"
           ],
-          "timestamp": "2026-08-14T22:05:04Z"
+          "timestamp": "2026-08-16T23:34:31Z"
         },
         "optional": []
       },
@@ -668,7 +668,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 1.2648307085037231
+        "heat_rate": 0.9491653442382813
       },
       "heater_bed": {
         "heat_rate": 6.185803413391113
